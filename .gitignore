@@ -5,3 +5,4 @@ sim_build/
 cocotb_tests/sim_build/
 c/*.exe
 c/vectors.csv
+cocotb_tests/results.xml
