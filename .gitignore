@@ -1,3 +1,7 @@
 __pycache__/
 *.pyc
 *.csv
+sim_build/
+cocotb_tests/sim_build/
+c/*.exe
+c/vectors.csv
